@@ -54,6 +54,7 @@ If the `threat_score` exceeds the user-defined threshold:
 ├── config/             # Threat Thresholds & System Rules
 └── main.py             # Main Event Loop
 
-##Diagram
-<img width="979" height="706" alt="image" src="https://github.com/user-attachments/assets/eb7cc7b8-f661-4b73-9cc6-b374b314e552" />
+
+
+<img width="979" height="706" alt="Screenshot 2026-02-03 101242" src="https://github.com/user-attachments/assets/b31f34b2-d7ff-4488-a6c1-d851c9a914ae" />
 
