@@ -53,3 +53,7 @@ If the `threat_score` exceeds the user-defined threshold:
 ├── executive/          # TTS Modules & Alert Dispatchers
 ├── config/             # Threat Thresholds & System Rules
 └── main.py             # Main Event Loop
+
+##Diagram
+<img width="979" height="706" alt="image" src="https://github.com/user-attachments/assets/eb7cc7b8-f661-4b73-9cc6-b374b314e552" />
+
