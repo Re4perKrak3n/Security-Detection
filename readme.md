@@ -56,5 +56,4 @@ If the `threat_score` exceeds the user-defined threshold:
 
 
 
-<img width="979" height="706" alt="Screenshot 2026-02-03 101242" src="https://github.com/user-attachments/assets/b31f34b2-d7ff-4488-a6c1-d851c9a914ae" />
 
