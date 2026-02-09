@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c40d533-db2d-44e2-8f80-ba40a455592f" alt="Project Architecture" width="800">
+</p>
+
+
+---
+
+
 # Sentinel-Brain: Autonomous Agentic Security Pipeline
 
 **Sentinel-Brain** is a high-performance, local-first security framework that integrates real-time computer vision with multimodal large language models (MLLMs). It transforms traditional motion alerts into an "intelligent" security agent capable of reasoning, threat assessment, and verbal intervention.
@@ -53,6 +61,9 @@ If the `threat_score` exceeds the user-defined threshold:
 ├── executive/          # TTS Modules & Alert Dispatchers
 ├── config/             # Threat Thresholds & System Rules
 └── main.py             # Main Event Loop
+
+
+
 
 
 
